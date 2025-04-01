@@ -24,7 +24,7 @@ layout: default
   <dd>Minecraft offline launcher **Any version**</dd>
   <dt>Download</dt>
   <dd> 
-    <a href="https://drive.google.com/file/d/1BZhF0tdOe5n6Ed7ll2rE812WoHuDste0/view?usp=drivesdk">Minecraft Launcher</a>
+    <a href="https://drive.google.com/file/d/1BZhF0tdOe5n6Ed7II2rE812WoHuDste0/view?usp=drivesdk">Minecraft Launcher</a>
   </dd>
 </dl>
 
