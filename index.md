@@ -1,21 +1,23 @@
 ---
 layout: default
 ---
-# Header 1
-Revision Website
+# Revision Website
 
-## Header 2
-> This website allows for free games to play in school
-> If you wish to request something, add an issue in the github page with your request. **DO NOT ENTER LARGE GAMES**
 
-# Header 1
-Games
+### > This website allows for free games to play in school
+### > If you wish to request something, add an issue in the github page with your request. **DO NOT ENTER LARGE GAMES**
 
-### Header 3
-Minecraft
+
+# Games
+
+
+### Minecraft
+
 <dl>
   <dt>Description</dd>
   <dd>1.8.8 Minecraft with online features. Multiplayer doesnt work on school wifi</dd>
   <dt>Download</dt>
-  <dd>[Astraclient - Online & Singleplayer](https://astraclientorg.github.io/)</dd>
+  <dd> 
+    <a href="https://astraclientorg.github.io">Astraclient - Online & Singleplayer</a>
+  </dd>
 </dl>
