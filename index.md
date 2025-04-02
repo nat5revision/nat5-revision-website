@@ -144,7 +144,12 @@ layout: default
 ### > If you wish to request something, add an issue in the github page with your request. **Do not request large games**
 
 ***
-## Html Minecraft
+## Game Index
+* <a href="#HTMLMinecraft">Minecraft Web</a>
+* <a href="#Terraria">Terraria</a>
+***
+
+## <h2 id="HTMLMinecraft">Minecraft Web </h2>
 ![minecraft](images/minecraft)
 ### Description
 This a html file which are versions of older minecraft with browser compatibility. _Usually has a slow loading time_, but is easy to use and an effective way to run old minecraft quickly without installing anything. **Online usually doesn't work on school wifi.**
@@ -153,7 +158,7 @@ This a html file which are versions of older minecraft with browser compatibilit
 * <a href="https://drive.google.com/file/d/1dafWS77rqUnlfCwBji2bL6kWj-DLS8rH/view?usp=sharing">Drive Download</a> - Original eaglercraft multiple versions (1.3, 1.5.2, 1.8 _Doesn't have singleplayer_) - 27MB
 
 ***
-## Terraria
+## <h2 id="Terraria"> Terraria </h2>
 ![minecraft](images/terraria.png)
 ### Description
 A downloadable EXE file which works on any pc. Just unzip the file onto your desktop and run the .exe file in the /terraria folder. **Ignore the redist and readme files**
